@@ -34,7 +34,7 @@ Box2D는 C로 작성되었으므로, C 프로그래밍에 대한 경험이 필�
 
 충분한 세부 정보를 제공하면 문제를 해결하는 데 도움이 됩니다. 문제를 재현할 수 있는 테스트베드 예제가 이상적입니다. 테스트베드에 대해서는 이 문서의 후반부에서 읽어보실 수 있습니다.
 
-또한 Box2D를 위한 Discord 서버와 subreddit도 있습니다.
+또한 Box2D를 위한 [Discord server](https://discord.gg/NKYgCBP) 와 [subreddit](https://reddit.com/r/box2d) 도 있습니다.
 
 
 
