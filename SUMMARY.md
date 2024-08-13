@@ -9,6 +9,7 @@
       * [b2FreeFcn](readme/reference/base/b2freefcn.md)
       * [b2GetByteCount()](readme/reference/base/b2getbytecount.md)
       * [b2SetAllocator()](readme/reference/base/b2setallocator.md)
+      * [b2SetAssertFcn()](readme/reference/base/b2setassertfcn.md)
     * [바디(Body)](readme/reference/body.md)
     * [월드(World)](readme/reference/world.md)
     * [형상(Shape)](readme/reference/shape.md)
@@ -21,4 +22,3 @@
     * [수학(Math)](readme/reference/math.md)
     * [C++ 수학(C++ Math)](readme/reference/c++-c++-math.md)
     * [이벤트(Events)](readme/reference/events.md)
-* [b2SetAssertFcn()](b2setassertfcn.md)
