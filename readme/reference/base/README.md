@@ -6,7 +6,7 @@
 
 ```c
 struct b2Version
- 	버전 번호 체계 (Version numbering scheme). 더 보기...
+ 	버전 번호 체계 (Version numbering scheme).
 ```
 
 ### Typedefs
